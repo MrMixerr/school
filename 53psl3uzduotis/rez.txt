@@ -1,0 +1,1 @@
+vidVaikinu = 181, vidMerginu = 169

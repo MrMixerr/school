@@ -5,22 +5,30 @@ using namespace std;
 
 int main()
 {
-    int n,u;
+    int n,u,k,e, msum, bsum;
+    double mvid, bvid;
     ifstream fd("data.txt");
     ofstream fr("rez.txt");
     fd >> n;
-    s=0;
     k=0;
+    e=0;
+    msum=0;
+    bsum=0;
     for(int i=1; i<=n; i++){
         fd >> u;
-        if(p<0)
+        if(u<0)
         {
             k++;
-            s=s+p;
+            bsum=bsum+u;
+            bvid=bsum/k;
+        }
+        else{
+            e++;
+            msum=msum+u;
+            mvid=msum/e;
         }
     }
-    fr << "prekes ne didesnes uz 14 litu, yra k = "<< k << endl;
-    fr << "Uz jas reikes moketi s = "<< s << endl;
+    fr << "vidVaikinu = "<< bvid*-1 << ", vidMerginu = " << mvid << endl;
     fd.close();
     fr.close();
     return 0;
