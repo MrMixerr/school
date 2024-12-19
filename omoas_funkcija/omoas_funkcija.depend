@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734626757 source:c:\users\manta\programavimas\omoas_funkcija\main.cpp
+	<iostream>
+	<fstream>
+
