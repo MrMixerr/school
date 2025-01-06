@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736177664 source:c:\users\manta\programavimas\patiekalas\main.cpp
+	<iostream>
+	<fstream>
+
