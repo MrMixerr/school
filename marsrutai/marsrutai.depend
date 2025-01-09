@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736440148 source:c:\users\manta\programavimas\marsrutai\main.cpp
+	<iostream>
+	<fstream>
+
