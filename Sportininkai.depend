@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744367706 source:c:\users\m2018008\pro-gramavimas\sportininkai\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+
