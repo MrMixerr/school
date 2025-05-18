@@ -1,0 +1,24 @@
+1. kriptografija
+2. sertifikatas, kuris uztikrina saugius duomenu perdavimus
+3. simetrinis 
+4. Y privatuji
+5. 
+6. vieno rakto naudojimas, raktas turi buti gerai priziurimas.
+7. rasti kriptografinių algoritmų, protokolų ar diegimų silpnąsias vietas ar pažeidžiamumą
+8. 
+Viešasis raktas leidžia bet kam užšifruoti pranešimą, skirtą konkrečiam gavėjui, 
+kuris vėliau gali iššifruoti pranešimą naudodamas atitinkamą privatų raktą.
+
+Privatusis raktas laikomas paslaptyje ir yra naudojamas iššifruoti duomenims, 
+kurie buvo užšifruoti su jį atitinkančiu viešuoju raktu.
+9. elektroninė prekyba, tinklų saugumas
+10. elektroniniai laiškai ir komunikacija, skaitmeniniai parašai.
+11. A
+12. B
+13. C 
+14. B 
+15. B 
+16. B 
+17. A 
+18. B 
+19. B 
