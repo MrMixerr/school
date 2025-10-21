@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761070586 source:c:\users\manta\programavimas\prekiuapskaita\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,10 @@
+Kasininke 1: 
+Per diena pardave prekiu uz 317.55 Eur.
+Vidutiniskai viena preke kainavo 158.78 Eur.
+Kasininke 2: 
+Per diena pardave prekiu uz 490.90 Eur.
+Vidutiniskai viena preke kainavo 163.63 Eur.
+Kasininke 3: 
+Per diena pardave prekiu uz 200.00 Eur.
+Vidutiniskai viena preke kainavo 200.00 Eur.
+Per diena parduota preikiu uz 1008.45Eur. 
