@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764788828 source:c:\users\manta\programavimas\karoliukai\main.cpp
+	<iostream>
+	<fstream>
+
